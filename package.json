@@ -1,0 +1,16 @@
+{
+  "name": "log-analyzer",
+  "version": "1.0.0",
+  "description": "Parse and analyze application logs",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "echo \"No tests yet\" && exit 0"
+  },
+  "keywords": [
+    "log",
+    "analyzer"
+  ],
+  "author": "RyanMoshi",
+  "license": "MIT"
+}
